@@ -1,6 +1,3 @@
-Here's the updated `README.md` to reflect that Redux dispatch is being used instead of mock API calls for updating data in real time.
-
-```markdown
 # Frontend Assignment: Role-Based Dashboard with Country Selection
 
 ## Table of Contents
